@@ -114,3 +114,44 @@ p {
     background-position: 5% 10%;
     background-color: khaki;
 }
+
+.half-width {
+    width: 50%;
+    padding-left: 5%;
+}
+
+.half-width img {
+    margin-top: 30%;
+    width: 80%;
+}
+
+.mail {
+    margin-left: 30%;
+
+}
+
+.mailpart {
+    background-color: lemonchiffon;
+    margin-left: 25%;
+    margin-right: 25%;
+    padding: 20px;
+}
+
+#subs {
+    margin: 59%;
+    margin-bottom: 20px;
+    padding: 3px;
+}
+
+.footer {
+    background-color: black;
+    margin: 0%;
+    width: 100%;
+    border: solid black;
+}
+
+#exactamount {
+    background-color: salmon;
+    border: 2px solid red;
+
+}
