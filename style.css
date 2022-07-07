@@ -1,9 +1,50 @@
 body {
     font-family: 'Inter', sans-serif;
+
     color: white;
 }
 
-.header {
+body {
     background-image: url(images/donation9.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 1500px 600px;
+
+
+
+
+}
+
+#heading-top {
+    font-size: 250%;
+    text-align: center;
+    padding-top: 150px;
+}
+
+#heading-bottom {
+    font-size: 250%;
+    text-align: center;
+    padding-top: 5px;
+
+}
+
+p {
+    filter: brightness(200%);
+    filter: saturate(100%);
+
+}
+
+.link-button {
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    text-align: center;
+    background-image: linear-gradient(red, tomato);
+    color: white;
+    font-weight: 500;
+    border-radius: 5px;
+    padding: 10px 40px;
+    margin-right: 25%;
+    margin-left: 45%;
 
 }
